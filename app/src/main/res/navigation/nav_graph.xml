@@ -9,5 +9,5 @@
         android:id="@+id/listFragment"
         android:name="com.example.pokeapi.ui.fragments.pokemonlist.ListFragment"
         android:label="fragment_list"
-        tools:layout="@layout/fragment_list" />
+        tools:layout="@layout/fragment_pokemon" />
 </navigation>
